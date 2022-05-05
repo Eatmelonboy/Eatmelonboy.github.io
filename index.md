@@ -1,11 +1,10 @@
 # 人生就是一个不断学习的过程
 
 <iframe 
-    width="2400" 
-    height="450" 
-    src="demo/demo1_1.mp4"
-    frameborder="0" 
-    allowfullscreen>
+    src="demo/demo2.mp4" 
+    scrolling="no" 
+    style="border:0;width:20%;height:auto;min-height:50px;"
+    allowfullscreen="true"> 
 </iframe>
 
 # 参与项目
