@@ -3,7 +3,7 @@
 </videos>
 
 <video id="video" controls="" preload="none" poster="封面">
-      <source id="mp4" src="demo/demo2.mp4" type="video/mp4">
+      <source id="mp4" src="demo/demo1_1.mp4" type="video/mp4">
 </videos>
 
 
