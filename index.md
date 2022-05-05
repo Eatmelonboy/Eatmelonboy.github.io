@@ -1,17 +1,19 @@
-<video id="video_6dof" controls="" preload="none" poster="封面">
-      <source id="mp4" src="demo/demo2.mp4" type="video/mp4">
-</videos>
 
-<video id="video_3d" controls="" preload="none" poster="封面">
-      <source id="mp4" src="demo/demo1_1.mp4" type="video/mp4">
-</videos>
 
 
 ## Welcome to GitHub Pages
+<video id="video_6dof" controls="" preload="none" poster="6dof">
+      <source id="6dofmp4" src="demo/demo2.mp4" type="video/mp4">
+</videos>
+
+
 
 You can use the [editor on GitHub](https://github.com/Eatmelonboy/Eatmelonboy.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<video id="video_3d" controls="" preload="none" poster="3d">
+      <source id="3dmp4" src="demo/demo1_1.mp4" type="video/mp4">
+</videos>
 
 ### Markdown
 
