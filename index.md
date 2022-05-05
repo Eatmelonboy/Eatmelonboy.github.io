@@ -1,8 +1,8 @@
-<video id="video" controls="" preload="none" poster="封面">
+<video id="video_6dof" controls="" preload="none" poster="封面">
       <source id="mp4" src="demo/demo2.mp4" type="video/mp4">
 </videos>
 
-<video id="video" controls="" preload="none" poster="封面">
+<video id="video_3d" controls="" preload="none" poster="封面">
       <source id="mp4" src="demo/demo1_1.mp4" type="video/mp4">
 </videos>
 
