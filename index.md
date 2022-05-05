@@ -1,3 +1,12 @@
+<video id="video" controls="" preload="none" poster="封面">
+      <source id="mp4" src="demo/demo2.mp4" type="video/mp4">
+</videos>
+
+<video id="video" controls="" preload="none" poster="封面">
+      <source id="mp4" src="demo/demo2.mp4" type="video/mp4">
+</videos>
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Eatmelonboy/Eatmelonboy.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
