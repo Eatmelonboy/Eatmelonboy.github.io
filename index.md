@@ -1,9 +1,14 @@
 # 人生就是一个不断学习的过程
 
-人生就是一个不断学习的过程，通过学习来充实自己的头脑，让自己更有智慧的生活下去，去探索那未知领域的神秘，去享受成长带来的快乐和惬意。
+# 参与项目
+## 自由视点视频
 
-<video id="video" controls="" preload="none" poster="3d">
+<video id="video" controls="" preload="none" poster="6dof">
       <source id="mp4" src="demo/demo2.mp4" type="video/mp4">
 </video>
 
+## 2D转3D视频
 
+<video id="video1" controls="" preload="none" poster="3d">
+      <source id="mp41" src="demo/demo1_1.mp4" type="video/mp4">
+</video>
