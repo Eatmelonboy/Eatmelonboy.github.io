@@ -3,7 +3,7 @@
 <iframe 
     src="demo/demo1_1.mp4" 
     scrolling="no" 
-    style="width:20%;height:auto;"
+    style="width:80%;height:auto;"
     frameborder=0 
     allowfullscreen="true"> 
 </iframe>
