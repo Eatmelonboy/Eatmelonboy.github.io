@@ -5,7 +5,7 @@
 # 参与项目
 ## -自由视点视频
 
-<video id="video" controls="true" controlslist="nodownload" preload="none" poster="6dof">
+<video id="video" controls="" controlslist="nodownload" preload="none" poster="6dof">
       <source id="mp4" src="demo/demo2_1.mp4" type="video/mp4">
 </video>
 
